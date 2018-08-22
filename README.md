@@ -4,3 +4,6 @@ No setup or package install with npm required .
 Just clone and from cmd or powershell, 
 Run "npm start" in the directory, 
 then go to http://localhost:8080/ port from browser.
+
+do this npm install --save copyfiles if error occurs during pm start
+
