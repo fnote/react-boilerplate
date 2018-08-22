@@ -8,7 +8,7 @@
     "build": "webpack -d && copyfiles src/index.html dist/index.html && webpack-dev-server --content-base src/ --inline --hot",
     "build:prod": "webpack -p && copyfiles src/index.html dist/index.html"
   },
-  "author": "Tarmim Hoque Shuvo",
+  "author": "sithija thewa hettige",
   "license": "MIT",
   "dependencies": {
     "copy": "^0.3.2",
